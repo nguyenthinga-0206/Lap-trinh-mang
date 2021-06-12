@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mycompany.da_luong_tcp.bai3.model;
+package com.mycompany.da_luong_tcp.NguyenThiNga_102180260.bai3.model;
 
 /**
  *
