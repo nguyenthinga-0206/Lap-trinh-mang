@@ -1,0 +1,41 @@
+
+fsquid:UselessImportCheck";Remove this unused import 'javax.servlet.ServletException'.(Š‰™Œ8›Ë÷ï-
+{squid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(®Ëƒ„ûÿÿÿÿ8Ú¤›íÜ-
+{squid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ß±Ïğÿÿÿÿÿ8òó¿‘ß-
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8›Ë÷ï-
+Ksquid:S1199Z"-Extract this nested code block into a method.(áÙÇ8Ö¾÷ï-
+]squid:S1161T":Add the "@Override" annotation above this method signature(ö‰›ÿÿÿÿÿ8Ö¾÷ï-
+Xsquid:S1161!":Add the "@Override" annotation above this method signature(‰Æã­8ÊÚ™ İ-
+gsquid:S21474"DCombine this catch with the one at line 50, which has the same body.(ĞĞ¹óúÿÿÿÿ8áû­Ÿæ-
+Psquid:S1199u"-Extract this nested code block into a method.(œ¨Œğúÿÿÿÿ8—÷²ûï-
+n
+squid:S128f"LEnd this switch case with an unconditional break, return or throw statement.(ÌğŞŸüÿÿÿÿ8Ö¾÷ï-
+Ksquid:S1199I"-Extract this nested code block into a method.(ŒíŠ8¸íÔôï-
+[squid:UselessImportCheck"+Remove this unused import 'model.Employee'.(ÍûŸÓúÿÿÿÿ8›Ë÷ï-
+—"squid:ClassVariableVisibilityCheck"]Make departmentService a static final constant or non-public and provide accessors if needed.(®Ëƒ„ûÿÿÿÿ8Ú¤›íÜ-
+`squid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8›Ë÷ï-
+Fsquid:S11485"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8áû­Ÿæ-
+•"squid:ClassVariableVisibilityCheck"[Make employeeService a static final constant or non-public and provide accessors if needed.(ß±Ïğÿÿÿÿÿ8òó¿‘ß-
+Psquid:S1199b"-Extract this nested code block into a method.(Ã³ÖÍùÿÿÿÿ8Ö¾÷ï-
+i
+squid:S128B"LEnd this switch case with an unconditional break, return or throw statement.(ÛÊªş8†Şìˆá-
+[squid:UselessImportCheck"0Remove this unused import 'java.nio.file.Paths'.(áè°¯8æºÔõï-
+Fsquid:S1148j"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ö¾÷ï-
+i
+squid:S128I"LEnd this switch case with an unconditional break, return or throw statement.(ŒíŠ8óùÔ÷ï-
+Psquid:S11999"-Extract this nested code block into a method.(Ã³ÖÍùÿÿÿÿ8íÓâôÜ-
+Fsquid:S1148+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8áõèôÜ-
+Ksquid:S1199^"-Extract this nested code block into a method.(ı£ƒ˜8Ö¾÷ï-
+Ksquid:S1199'"-Extract this nested code block into a method.(áÙÇ8íÓâôÜ-
+Fsquid:S1148>"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8á¹Ôˆá-
+Ksquid:S1199m"-Extract this nested code block into a method.(ÛÊªş8Ö¾÷ï-
+Ksquid:S1199q"-Extract this nested code block into a method.(ŒíŠ8Ö¾÷ï-
+isquid:UselessImportCheck	">Remove this unused import 'service.impl.ReadExcelServiceImpl'.(¼Û‚ 8›Ë÷ï-
+Psquid:S1199f"-Extract this nested code block into a method.(ÌğŞŸüÿÿÿÿ8Ö¾÷ï-
+Ksquid:S1199/"-Extract this nested code block into a method.(ı£ƒ˜8íÓâôÜ-
+Tsquid:UselessImportCheck")Remove this unused import 'java.io.File'.(†Ğ¥Å8›Ë÷ï-
+_squid:UselessImportCheck"4Remove this unused import 'javax.servlet.http.Part'.(ó•™¬8ËÕÑ÷ï-
+Ksquid:S1199B"-Extract this nested code block into a method.(ÛÊªş8†Şìˆá-
+Fsquid:S11483"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ß…ñõÜ-
+gsquid:UselessImportCheck"<Remove this unused import 'javax.servlet.RequestDispatcher'.(Ëöò¼8›Ë÷ï-
+Fsquid:S1148F"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8’áïˆá-

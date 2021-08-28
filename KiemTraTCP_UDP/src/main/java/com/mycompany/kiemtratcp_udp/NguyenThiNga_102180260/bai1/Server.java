@@ -11,6 +11,7 @@ package com.mycompany.kiemtratcp_udp.NguyenThiNga_102180260.bai1;
  */
 import java.net.*;
 import java.io.*;
+
 public class Server {
   public static void main(String[] args) throws Exception {
     try{
@@ -28,6 +29,7 @@ public class Server {
     }
   }
 }
+
 class ServerClientThread extends Thread {
   Socket serverClient;
   int clientNo;

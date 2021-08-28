@@ -1,0 +1,38 @@
+
+fsquid:S1192J"HDefine a constant instead of duplicating this literal "address" 3 times.(ÔéÑ¸8ë‹ÅŒß-
+psquid:S00117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ÔÚu8é®œæ-
+W
+squid:S106Î"9Replace this use of System.out or System.err by a logger.(†ÚÂà8é®œæ-
+>squid:S2068&" Remove this hard-coded password.(õ•Í¢8³¯•÷Ü-
+[
+squid:S106e"9Replace this use of System.out or System.err by a logger.(µâ£äşÿÿÿÿ8ıõãİ-
+usquid:S00117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÀ¥Èşÿÿÿÿ8›ıÒŒß-
+W
+squid:S106È"9Replace this use of System.out or System.err by a logger.(Îã­Ã8é®œæ-
+isquid:S1192K"FDefine a constant instead of duplicating this literal "email" 3 times.(¬äÂøÿÿÿÿ8ë‹ÅŒß-
+isquid:S1192L"FDefine a constant instead of duplicating this literal "phone" 3 times.(ö¢«¸ùÿÿÿÿ8ë‹ÅŒß-
+\
+squid:S106É"9Replace this use of System.out or System.err by a logger.(íŠÚçüÿÿÿÿ8³¯•÷Ü-
+rsquid:S1192O"ODefine a constant instead of duplicating this literal "departments_id" 3 times.(êÀ¥Èşÿÿÿÿ8›ıÒŒß-
+€squid:S4087x"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(ôêÂœ8åš¶œæ-
+lsquid:S1192M"IDefine a constant instead of duplicating this literal "position" 3 times.(¼Ÿ–ÿÿÿÿÿ8ë‹ÅŒß-
+fsquid:S2095¢"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ÂÜ™ç8é®œæ-
+\
+squid:S106Ê"9Replace this use of System.out or System.err by a logger.(×ãìüÿÿÿÿ8•Şí–æ-
+squid:S4087—"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(ôêÂœ8õ¶œæ-
+qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(İäª8ó ëİ-
+squid:S4087À"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(ôêÂœ8¤è¸œæ-
+€squid:S4087:"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(ôêÂœ8…óµœæ-
+bsquid:S2147)"DCombine this catch with the one at line 39, which has the same body.(ıàÑÎ8³¯•÷Ü-
+€squid:S4087X"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(ôêÂœ8…óµœæ-
+tsquid:S2068"V'Password' detected in this expression, review this potentially hard-coded credential.(±å¤„8³¯•÷Ü-
+Fsquid:S1148*"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8³¯•÷Ü-
+lsquid:S1192N"IDefine a constant instead of duplicating this literal "birthday" 3 times.(Êù§ÿÿÿÿÿ8ë‹ÅŒß-
+esquid:S2095f"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ÂÜ™ç8Ú¯À”İ-
+esquid:S2095F"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ÂÜ™ç8ıõãİ-
+\
+squid:S106Ë"9Replace this use of System.out or System.err by a logger.(îöÁÑøÿÿÿÿ8•Şí–æ-
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÉÁ‡í8³¯•÷Ü-
+Fsquid:S1148("#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8³¯•÷Ü-
+squid:S4087„"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(ôêÂœ8˜º¶œæ-
+squid:S4087´"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(ôêÂœ8šµ¹œæ-

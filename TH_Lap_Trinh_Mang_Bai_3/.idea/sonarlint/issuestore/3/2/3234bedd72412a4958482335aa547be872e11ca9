@@ -1,0 +1,52 @@
+
+Gsquid:S1148‘"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ªÅŒ İ-
+Nsquid:S1481­"/Remove this unused "dispatcher" local variable.(º³Í8ªÅŒ İ-
+bsquid:S2147&"DCombine this catch with the one at line 36, which has the same body.(ï­£Ä8†ŞÁœİ-
+Fsquid:S1148'"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‘–—İ-
+Gsquid:S1148ÿ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¾Óı’ß-
+\
+squid:S106ç"9Replace this use of System.out or System.err by a logger.(’Ü¹Íûÿÿÿÿ8÷‹ˆ‰á-
+Fsquid:S11483"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÄâÆ–İ-
+bsquid:UselessImportCheck"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8û­Îİ-
+Gsquid:S1148£"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÄâÆ–İ-
+qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(İäª8’°ßœİ-
+Fsquid:S1148P"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ëı¬İ-
+osquid:S1192¾"KDefine a constant instead of duplicating this literal "department" 3 times.(ìë´ùÿÿÿÿ8Êä†“ß-
+Gsquid:S1148•"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8”³‘€ğ-
+dsquid:S2147”"ECombine this catch with the one at line 274, which has the same body.(ï­£Ä8”³‘€ğ-
+Gsquid:S1148Ş"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ùË¼’ß-
+dsquid:S2147Æ"ECombine this catch with the one at line 196, which has the same body.(ï­£Ä8åà•ß-
+rsquid:S1192D"ODefine a constant instead of duplicating this literal "departments_id" 3 times.(ğÖÛ¢øÿÿÿÿ8‹¡ü’ß-
+]squid:S1854¯">Remove this useless assignment to local variable "dispatcher".(µ²Ä²8ªÅŒ İ-
+Gsquid:S1148Å"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8åà•ß-
+vsquid:S00117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÖÛ¢øÿÿÿÿ8‹¡ü’ß-
+dsquid:S2147"ECombine this catch with the one at line 142, which has the same body.(ï­£Ä8ÄâÆ–İ-
+Gsquid:S1148Ç"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8åà•ß-
+jsquid:S1192/"LDefine a constant instead of duplicating this literal "departments" 5 times.(«ùâÖ8’‹ß-
+Fsquid:S1148d"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8öÒ‘Ÿİ-
+ksquid:S1192J"HDefine a constant instead of duplicating this literal "message" 3 times.(ß¿ÑÓúÿÿÿÿ8İéœæ-
+Gsquid:S1148“"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8”³‘€ğ-
+usquid:S00117v"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÖÛ¢øÿÿÿÿ8’‹ß-
+\
+squid:S106ê"9Replace this use of System.out or System.err by a logger.(Ã¼·Üüÿÿÿÿ8¼ô ‰á-
+Usquid:UselessImportCheck"*Remove this unused import 'java.sql.Date'.(ÙÀ½Ê8û­Îİ-
+bsquid:S21474"DCombine this catch with the one at line 50, which has the same body.(ï­£Ä8öÒ‘Ÿİ-
+usquid:S00117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÖÛ¢øÿÿÿÿ8’‹ß-
+Fsquid:S1148f"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8³êİ-
+bsquid:S2147e"DCombine this catch with the one at line 99, which has the same body.(ï­£Ä8ëı¬İ-
+bsquid:S2147O"DCombine this catch with the one at line 77, which has the same body.(ï­£Ä8‘–—İ-
+Gsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8öÒ‘Ÿİ-
+Gsquid:S1148à"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ùË¼’ß-
+Fsquid:S11485"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ëı¬İ-
+msquid:S1192"JDefine a constant instead of duplicating this literal "employees" 4 times.(Ä¦ûşÿÿÿÿ8ùË¼’ß-
+Fsquid:S1148N"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8³êİ-
+lsquid:S1192^"IDefine a constant instead of duplicating this literal "employee" 4 times.(•òç½ÿÿÿÿÿ8‚œ“Ÿİ-
+dsquid:S2147¤"ECombine this catch with the one at line 162, which has the same body.(ï­£Ä8³êİ-
+Gsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¾Óı’ß-
+lsquid:S1192\"NDefine a constant instead of duplicating this literal "error-404.jsp" 6 times.(µ²Ä²8öÒ‘Ÿİ-
+Fsquid:S1148%"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8†ŞÁœİ-
+dsquid:S2147ß"ECombine this catch with the one at line 221, which has the same body.(ï­£Ä8ùË¼’ß-
+dsquid:S2147€"ECombine this catch with the one at line 254, which has the same body.(ï­£Ä8¾Óı’ß-
+Gsquid:S1148¶"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8†ŞÁœİ-
+qsquid:S00117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ÓğÌ8’‹™ß-
+Gsquid:S1148¥"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‘–—İ-

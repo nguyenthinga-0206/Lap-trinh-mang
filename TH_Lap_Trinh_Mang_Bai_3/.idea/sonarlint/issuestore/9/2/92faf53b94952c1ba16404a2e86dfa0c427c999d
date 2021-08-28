@@ -1,0 +1,44 @@
+
+qsquid:S00117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ÓğÌ8ĞÉÜ÷ï-
+Nsquid:S1481‡"/Remove this unused "dispatcher" local variable.(º³Í8ÀƒÃöÜ-
+Fsquid:S11481"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÂÒÅ–İ-
+Gsquid:S1148Ù"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8—ãÓ÷ï-
+Gsquid:S1148Û"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8—ãÓ÷ï-
+Gsquid:S1148¯"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8±‰Éòï-
+qsquid:S00117í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ÓğÌ8¸Ëûï-
+Gsquid:S1148ÿ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8åÃûï-
+esquid:S3027ˆ"FPut single-quotes around '=' to use the faster "indexOf(char)" method.(ÈıÈõ8—ãÓ÷ï-
+Gsquid:S1148Ì"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8—ãÓ÷ï-
+Fsquid:S1148k"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÀƒÃöÜ-
+Fsquid:S1148S"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÀƒÃöÜ-
+bsquid:S21472"DCombine this catch with the one at line 48, which has the same body.(ï­£Ä8ÂÒÅ–İ-
+Esquid:S1075Á"&Remove this hard-coded path-delimiter.(·§æÿ8—ãÓ÷ï-
+Fsquid:S1148@"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÂÒÅ–İ-
+Fsquid:S1148m"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÀƒÃöÜ-
+Ysquid:S1141É"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8—ãÓ÷ï-
+]squid:S1854‰">Remove this useless assignment to local variable "dispatcher".(µ²Ä²8ÀƒÃöÜ-
+Gsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÀƒÃöÜ-
+Gsquid:S1148å"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8—ãÓ÷ï-
+bsquid:S2147'"DCombine this catch with the one at line 37, which has the same body.(ï­£Ä8ÀƒÃöÜ-
+Fsquid:S1148~"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÀƒÃöÜ-
+Fsquid:S1148&"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÀƒÃöÜ-
+Gsquid:S1148­"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÍªÊòï-
+csquid:S2147l"ECombine this catch with the one at line 106, which has the same body.(ï­£Ä8ÀƒÃöÜ-
+Fsquid:S11483"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÂÒÅ–İ-
+Gsquid:S1148ç"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8®äæ÷ï-
+Gsquid:S1148Ó"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8—ãÓ÷ï-
+bsquid:S2147T"DCombine this catch with the one at line 82, which has the same body.(ï­£Ä8ÀƒÃöÜ-
+lsquid:S1192K"NDefine a constant instead of duplicating this literal "error-404.jsp" 5 times.(µ²Ä²8ÀƒÃöÜ-
+nsquid:S1192M"KDefine a constant instead of duplicating this literal "department" 4 times.(ìë´ùÿÿÿÿ8ÀƒÃöÜ-
+Fsquid:S1148B"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÂÒÅ–İ-
+Fsquid:S1148("#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÀƒÃöÜ-
+Gsquid:S1148€"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÀƒÃöÜ-
+Gsquid:S1148ü"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8§Ï¬ÿï-
+Ysquid:S1141ù"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8§Ï¬ÿï-
+dsquid:S2147®"ECombine this catch with the one at line 172, which has the same body.(ï­£Ä8ÍªÊòï-
+dsquid:S2147Ú"ECombine this catch with the one at line 216, which has the same body.(ŸäÁ‚8—ãÓ÷ï-
+dsquid:S2147æ"ECombine this catch with the one at line 228, which has the same body.(É®£8®äæ÷ï-
+Fsquid:S1148U"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÀƒÃöÜ-
+csquid:S2147"ECombine this catch with the one at line 125, which has the same body.(ï­£Ä8ÀƒÃöÜ-
+vsquid:S3776´"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ö½Œøıÿÿÿÿ8—ãÓ÷ï-
+bsquid:S2147A"DCombine this catch with the one at line 63, which has the same body.(ï­£Ä8ÂÒÅ–İ-

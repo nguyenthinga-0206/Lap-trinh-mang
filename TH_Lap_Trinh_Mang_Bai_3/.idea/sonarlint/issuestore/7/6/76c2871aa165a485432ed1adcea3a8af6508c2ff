@@ -1,0 +1,13 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(—ΤΎθ8ι€¶χο-
+\"squid:SwitchLastCaseIsDefaultCheck$""Add a default case to this switch.(έοΎ¬ωÿÿÿÿ8σΊΧιο-
+“"squid:SwitchLastCaseIsDefaultCheckF"YComplete cases by adding the missing enum constants or add a default case to this switch.(σλΥωÿÿÿÿ8σΊΧιο-
+Fsquid:S1148m"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8ΩΌκο-
+[
+squid:S106h"9Replace this use of System.out or System.err by a logger.(ΓµΙ®ύÿÿÿÿ8ξομο-
+V
+squid:S106g"9Replace this use of System.out or System.err by a logger.(£ΖΟΑ8Άµξμο-
+Tsquid:UselessImportCheck")Remove this unused import 'java.io.File'.(†Π¥Ε8„φμο-
+V
+squid:S106j"9Replace this use of System.out or System.err by a logger.(Ό΅¨ς8Ιδκο-

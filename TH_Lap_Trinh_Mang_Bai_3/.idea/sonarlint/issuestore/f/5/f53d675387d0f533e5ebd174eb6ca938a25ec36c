@@ -1,0 +1,26 @@
+
+€squid:S4087+"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(ôêÂœ8ÌùÃæ-
+[
+squid:S106r"9Replace this use of System.out or System.err by a logger.(íŠÚçüÿÿÿÿ8ŠììÜ-
+>squid:S2068" Remove this hard-coded password.(õ•Í¢8ŠììÜ-
+esquid:S20956"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ÂÜ™ç8ÌùÃæ-
+V
+squid:S106q"9Replace this use of System.out or System.err by a logger.(Îã­Ã8ÌùÃæ-
+€squid:S4087i"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(ôêÂœ8ÌùÃæ-
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ô÷ó½8ŠììÜ-
+[
+squid:S106t"9Replace this use of System.out or System.err by a logger.(îöÁÑøÿÿÿÿ8ŠììÜ-
+Fsquid:S1148!"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ŠììÜ-
+V
+squid:S106w"9Replace this use of System.out or System.err by a logger.(†ÚÂà8ÌùÃæ-
+€squid:S4087O"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(ôêÂœ8ÌùÃæ-
+€squid:S4087\"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(ôêÂœ8ÌùÃæ-
+V
+squid:S106'"9Replace this use of System.out or System.err by a logger.(øØ¹8ŠììÜ-
+bsquid:S2147 "DCombine this catch with the one at line 30, which has the same body.(ıàÑÎ8ŠììÜ-
+€squid:S4087;"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(ôêÂœ8ÌùÃæ-
+esquid:S2095H"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ÂÜ™ç8ÌùÃæ-
+tsquid:S2068"V'Password' detected in this expression, review this potentially hard-coded credential.(±å¤„8ŠììÜ-
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ŠììÜ-
+[
+squid:S106s"9Replace this use of System.out or System.err by a logger.(×ãìüÿÿÿÿ8ŠììÜ-

@@ -1,0 +1,20 @@
+
+n
+squid:S128M"LEnd this switch case with an unconditional break, return or throw statement.(òêÍüÿÿÿÿ8Š¶€ğ-
+Fsquid:S1148'"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8˜Ù” İ-
+Ksquid:S1199#"-Extract this nested code block into a method.(ı£ƒ˜8É´±–İ-
+Ksquid:S1199A"-Extract this nested code block into a method.(áÙÇ8É´±–İ-
+Xsquid:S1161":Add the "@Override" annotation above this method signature(‰Æã­8É´±–İ-
+Psquid:S1199+"-Extract this nested code block into a method.(Ã³ÖÍùÿÿÿÿ8É´±–İ-
+Ksquid:S1199E"-Extract this nested code block into a method.(ı£ƒ˜8É´±–İ-
+gsquid:S2147"DCombine this catch with the one at line 28, which has the same body.(âÃƒŠıÿÿÿÿ8š¤«İ-
+Psquid:S1199M"-Extract this nested code block into a method.(òêÍüÿÿÿÿ8Š¶€ğ-
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8š¤«İ-
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8š¤«İ-
+{squid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ïÃ…ÿÿÿÿÿ8âø®–İ-
+Ksquid:S1199"-Extract this nested code block into a method.(áÙÇ8É´±–İ-
+Fsquid:S1148/"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8­Û‘ İ-
+]squid:S1161;":Add the "@Override" annotation above this method signature(ö‰›ÿÿÿÿÿ8É´±–İ-
+Psquid:S1199I"-Extract this nested code block into a method.(Ã³ÖÍùÿÿÿÿ8É´±–İ-
+fsquid:UselessImportCheck";Remove this unused import 'javax.servlet.ServletException'.(Š‰™Œ8É´±–İ-
+`squid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8ÏÁ– İ-
